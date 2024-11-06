@@ -1,0 +1,3 @@
+#Task 1: Keyword Highlighter
+#Write a program that searches through reviews list and looks for keywords such as "good", "excellent", "bad", "poor", and "average". 
+# We want you to capitalize those keywords then print out each review. Print out each review with the keywords in uppercase so they stand out.
